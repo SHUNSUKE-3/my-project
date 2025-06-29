@@ -14,7 +14,7 @@ JavaScriptで実装したシンプルなToDoリストです。ユーザーがや
 ・削除ボタン付きのタスクリスト表示
 
 ## スクリーンショット
-![screenshot](img/tosoリスト（記入前）.png)
+![screenshot](img/todoリスト（記入前）.png)
 
-![screenshot](img/tosoリスト（記入済み）.png)
+![screenshot](img/todoリスト（記入済み）.png)
 
